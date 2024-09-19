@@ -8,7 +8,11 @@
         span
           i.fas.fa-info
       h1 Introducción
+
+    p.mb-4(data-aos="fade-right") ¡Toda profesión requiere una preparación!
     
+    p.mb-4(data-aos="fade-right") Este componente formativo, detalla la importancia de una adecuada higiene en todos los procesos relacionados con la técnica vocal, incluyendo factores a tener en cuenta en el uso de la voz. Por tal motivo, para iniciar este proceso y conocer más al respecto, analice el siguiente video introductorio:
+
     figure.mb-5(data-aos="zoom-in")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)

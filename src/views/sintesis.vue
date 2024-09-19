@@ -3,12 +3,12 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-5(data-aos="fade-right") A_continuación_se_muestra_un_mapa_conceptual
+    p.mb-5(data-aos="fade-right") A continuación, se describe a través de un mapa conceptual la temática tratada durante este componente formativo, el cual destaca los aspectos más relevantes que hacen parte de la higiene y la preparación de la voz, siempre pensado en la buena salud del individuo.
 
     .row.justify-content-center
       .col-lg-10.mb-5(data-aos="fade-right")
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="Imagen decorativa")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Imagen que contiene el mapa conceptual que resume la temática tratada durante este componente formativo, partiendo del hecho que, para tener una buena salud en lo relacionado con la voz del individuo, debe existir una higiene y preparación para ello; puesto que, así se previenen enfermedades y demás afecciones que causan daños en el ser humano.")
       .col-auto(data-aos="fade-left")
         a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
           .anexo__icono

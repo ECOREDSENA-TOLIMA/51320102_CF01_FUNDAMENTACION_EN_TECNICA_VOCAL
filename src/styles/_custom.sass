@@ -1,14 +1,19 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float2 2.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 12%
+    right: 25%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
     top: 51%
     right: 30%
+  &-3
+    animation: float2 2.5s ease-in-out infinite alternate
+    position: absolute
+    top: 38%
+    right: 78%
 
 
 @keyframes float1
@@ -16,3 +21,137 @@
     transform: translateY(20px)
   100%
     transform: translateY(0px)
+
+@keyframes float2
+  0%
+    transform: scale(1,1)
+  0%
+    transform: scale(0.8,0.8)
+  100%
+    transform: scale(1,1)
+
+
+.tarjeta.color-primario-a
+  background-color: #DAC8F1
+  
+.lista-ul--color li > i:first-of-type
+  color: #624B7E
+
+.ul-color-a li > i:first-of-type
+  color: #CBB1EB
+
+ul.lista-ul--color li, ul.lista-ul.ul-color-a li
+  display: flex
+
+.lista-title
+  background-color: #FCF5E0
+  width: max-content
+  border-radius: 0.8rem
+
+.lista-title-b
+  width: max-content
+  h4
+    color: #624B7E
+
+.fondo-1 
+  background: linear-gradient(to bottom, #FFF 0%, #F4EFFB, #FFF 100%)
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+
+.fondo-s1 
+  background-image: url('../assets/curso/temas/tema2/fslider.svg')
+  background-repeat: no-repeat
+  background-size: cover
+  border-radius: 20px
+  
+.acordion__accion__btn--b, .slyder__btn, .acordion__accion__btn--a, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right
+  background-color: $color-acento-botones
+  border: 1px solid $white
+  i
+    color: $white !important
+
+
+
+
+
+
+//// Tarjetas --------------------------------------
+.crd
+  &.brd--rad
+    border-radius: 20px 
+  &.crd--grayGrad
+    padding: 2rem
+    height: 100%
+    background-color: #F6F6F6
+    border-radius: 15px    
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23)
+    &:hover      
+      background: linear-gradient(180deg, rgba(25,137,226,1) 0%, rgba(10,81,139,1) 100%)
+      h4, p
+        color: white 
+      .bottomCircle
+        &::before
+          background-color: #FED981
+  &.crd--blue
+    background-color: #B1DBEA
+
+  &.crd--border
+    border: 4px solid $color-acento-botones
+    border-radius: 20px
+
+.bottomCircle
+  position: relative
+  & > *
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    top: 50%
+    left: 50%
+    transform: translate(-50%,-50%)
+    width: 115px
+    height: 115px
+    background-color: #116EB9
+    border-radius: 999px
+ 
+.crd--avatarHorizontal
+  position: relative
+  padding-right: 12rem
+  & > *
+    position: relative
+  h5 
+    color: #12263F
+  p 
+    margin-bottom: 0
+  &::before  
+    position: absolute 
+    content: ''
+    top: 0
+    right: 0
+    width: calc( 100% - 60px)
+    height: 100%
+    background-color: #D6F6F1
+
+  @media (max-width: 1000px)
+    padding-right: 2rem
+
+.crd--first
+  &::before 
+    background-color: #EADFF7 !important
+
+.crd--first
+  &::before 
+    border-top-left-radius: 30px
+.crd--last
+  &::before 
+    border-bottom-left-radius: 30px
+    background-color: #EADFF7 !important
+
+.avatar
+  position: absolute
+  bottom: 0
+  right: -4rem
+  z-index: 1
+  @media (max-width: 1000px)
+    display: none
