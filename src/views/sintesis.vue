@@ -10,7 +10,7 @@
         figure
           img(src="@/assets/curso/temas/sintesis.svg", alt="Imagen que contiene el mapa conceptual que resume la temática tratada durante este componente formativo, partiendo del hecho que, para tener una buena salud en lo relacionado con la voz del individuo, debe existir una higiene y preparación para ello; puesto que, así se previenen enfermedades y demás afecciones que causan daños en el ser humano.")
       .col-auto(data-aos="fade-left")
-        a.anexo.mb-4(:href="obtenerLink('/downloads/sintesis.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto

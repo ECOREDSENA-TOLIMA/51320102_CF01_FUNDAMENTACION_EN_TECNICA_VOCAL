@@ -67,7 +67,11 @@
   border: 1px solid $white
   i
     color: $white !important
-    
+
+.slyder-f__btn
+  i
+    color: $color-acento-botones
+
 ul.lista-ul--color li, ul.lista-ul.ul-color-a li, ul.lista-ul li
   display: flex
 
@@ -223,3 +227,34 @@ ul.lista-ul--color li, ul.lista-ul.ul-color-a li, ul.lista-ul li
   z-index: 1
   @media (max-width: 1000px)
     display: none
+
+
+///////// Card hover --------------------------------------
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+      h4,h5
+        background-image: url('../assets/curso/temas/ico-down.svg')
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: #EBD0EA
+    h4,h5
+      cursor: pointer
+      background-image: url('../assets/curso/temas/ico-up.svg')
+      background-repeat: no-repeat
+      padding-left: 1.8rem
+  
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
