@@ -66,7 +66,7 @@
         ImagenInfograficaB.color-acento-botones
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/temas/tema3/info-1A.svg', alt='')
+              img(src='@/assets/curso/temas/tema3/info-1A.png', alt='')
           div.p-3(x="32%" y="62%" numero="+" tooltip="Clic para ver información")
             .h5.mb-2 Factores de riesgo
             ul.lista-ul
