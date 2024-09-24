@@ -191,7 +191,7 @@ export default {
         'es la alteración de una o más de las características acústicas de la voz, que son el timbre, la intensidad y la altura tonal. Esta alteración puede ser percibida por el paciente o por el entorno. Puede ser temporal o permanente y es causada por una alteración de los mecanismos de adaptación y coordinación de las diferentes estructuras que intervienen en la producción de la voz.',
     },
     {
-      termino: 'Edema de Reinke o laringitis crónica:',
+      termino: 'Edema de Reinke o laringitis crónica',
       significado:
         'se trata de una transformación edematosa del corion o espacio de Reinke, localizado entre el epitelio y el ligamento vocal, que deforma la cara superior y el borde libre del repliegue vocal. Los agentes etiológicos más frecuentes son el abuso vocal y, en gran medida, el tabaquismo. Se han descrito otros agentes que pueden facilitar dicha bilateralidad como el etilismo, el reflujo gastro-esofágico y el hipotiroidismo, en el contexto de una infiltración mixedematosa.',
     },

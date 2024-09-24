@@ -128,6 +128,13 @@
 
     p.mb-5(data-aos="fade-right") Es necesario utilizar unas rutinas de calentamiento de la voz antes de cantar. Teniendo cuenta temas como la respiración, se proponen algunas rutinas de calentamiento y preparación de la voz:
     
+    .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
+      .col-12
+        ul.lista-ul--color.lista-title
+          li.mb-0.px-3.py-1
+            i.fas.fa-play
+            h3.mb-0 Técnicas de relajación
+            
     .row.mb-5.p-5.fondo-s2.justify-content-center.align-items-center(data-aos="fade-down")
       .col-12
         PasosB.tarjeta.color-white.p-4

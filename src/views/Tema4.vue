@@ -59,12 +59,12 @@
           img(src='@/assets/curso/temas/tema4/img_2.png', alt='')
       .col-lg-6.col-12(data-aos="fade-right")
         LineaTiempoD.color-acento-botones
-          p(numero="1" titulo="El diafragma") El diafragma es un músculo que separa la cavidad torácica de la cavidad abdominal y que en reposo tiene forma abovedada. Cuando se inspira, el diafragma se contrae y pasa a tener una forma más plana. Esto permite que la cavidad torácica aumente de volumen y entre el aire en los pulmones. Cuando el diafragma se relaja, presiona los pulmones y el aire es expulsado al exterior. 
-          p(numero="2" titulo="La respiración") La respiración adecuada para el canto es la costal diafragmática. Fue atribuida a los cantantes italianos del siglo XIX y se denominó “Técnica de apoggio” o “apoyo”.
-          p(numero="3" titulo="Inspiración") En esta técnica la inspiración es profunda, nasal, hay un leve ascenso de la pared torácica por obra de la acción de los músculos intercostales externos, elevadores de las costillas, en ese momento el sujeto cierra su glotis, coloca su laringe en posición fonatoria y emite el sonido sin modificar la posición inspiratoria durante toda la emisión.
+          p(numero="1" titulo="El diafragma") Es un músculo que separa la cavidad torácica de la cavidad abdominal y que en reposo tiene forma abovedada. Cuando se inspira, el diafragma se contrae y pasa a tener una forma más plana. Esto permite que la cavidad torácica aumente de volumen y entre el aire en los pulmones. Cuando el diafragma se relaja, presiona los pulmones y el aire es expulsado al exterior. 
+          p(numero="2" titulo="La respiración") La decuada para el canto es la costal diafragmática. Fue atribuida a los cantantes italianos del siglo XIX y se denominó “Técnica de <em>Appoggio</em>” o “apoyo”.
+          p(numero="3" titulo="Inspiración") Es profunda, nasal, hay un leve ascenso de la pared torácica por obra de la acción de los músculos intercostales externos, elevadores de las costillas, en ese momento el sujeto cierra su glotis, coloca su laringe en posición fonatoria y emite el sonido sin modificar la posición inspiratoria durante toda la emisión.
           p(numero="4" titulo="Proceso") Se realiza por obra de la presión subglotica, por la elevación lenta y progresiva del diafragma bajo la presión intensa y continua de la musculatura abdominal, que se produce desde el pubis hacia arriba. Así el gasto de aire no agota la reserva y provoca una sensación como de cantar sobre un colchón de aire.
-          p(numero="5" titulo="Apoggio") El apoggio de la voz se consigue cuando la columna de aire al salir de los pulmones halla resistencia, se agarra de los resonadores y varía según la vocal. 
-          p(numero="6" titulo="La técnica del apoggio") La técnica de apoggio conduce a técnicas de fuerte resistencia proyectada sobre la laringe, que protegen el mecanismo laríngeo, sobre todo en altas frecuencias y a gran volumen.
+          p(numero="5" titulo="El <em>Appoggio</em> de la voz") Se consigue cuando la columna de aire al salir de los pulmones halla resistencia, se agarra de los resonadores y varía según la vocal. 
+          p(numero="6" titulo="La técnica del <em>Appoggio</em>") Conduce a técnicas de fuerte resistencia proyectada sobre la laringe, que protegen el mecanismo laríngeo, sobre todo en altas frecuencias y a gran volumen.
 
     Separador
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -113,24 +113,24 @@
                 span Descargar
                 i.fas.fa-file-download
 
-    .row.align-items-center.justify-content-center.mb-4
-      .col-md-12.col-lg-10.col-12.tarjeta.color-primario-b.p-4(data-aos="fade-right") 
-        .row.align-items-center
-          .col-md-3.col-6.justify-content-center.mb-4.mb-md-0
-            figure
-              img(src='@/assets/curso/temas/tema4/ico-2.svg', alt='')
-          .col-md-9.col-12
-            p Después de leer este documento, conteste las siguientes preguntas:
-            ul.lista-ul.mb-0
-              li 
-                i.fas.fa-angle-right
-                | ¿Para qué es necesario la fase de retención de aire, antes de la espiración?
-              li 
-                i.fas.fa-angle-right
-                | ¿Por qué es importante el control de la espiración?
-              li.mb-0
-                i.fas.fa-angle-right
-                | ¿Qué ejercicios son los más importantes para el control y el apoyo de la respiración?
+    //- .row.align-items-center.justify-content-center.mb-4
+    //-   .col-md-12.col-lg-10.col-12.tarjeta.color-primario-b.p-4(data-aos="fade-right") 
+    //-     .row.align-items-center
+    //-       .col-md-3.col-6.justify-content-center.mb-4.mb-md-0
+    //-         figure
+    //-           img(src='@/assets/curso/temas/tema4/ico-2.svg', alt='')
+    //-       .col-md-9.col-12
+    //-         p Después de leer este documento, conteste las siguientes preguntas:
+    //-         ul.lista-ul.mb-0
+    //-           li 
+    //-             i.fas.fa-angle-right
+    //-             | ¿Para qué es necesario la fase de retención de aire, antes de la espiración?
+    //-           li 
+    //-             i.fas.fa-angle-right
+    //-             | ¿Por qué es importante el control de la espiración?
+    //-           li.mb-0
+    //-             i.fas.fa-angle-right
+    //-             | ¿Qué ejercicios son los más importantes para el control y el apoyo de la respiración?
 
     Separador
     #t_4_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
