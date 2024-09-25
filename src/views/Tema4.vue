@@ -139,21 +139,21 @@
     p.mb-5(data-aos="fade-right") Los modos de respiración que se deben tener en cuenta, de acuerdo a su adecuado uso, son los siguientes:
 
     .tarjeta--container.row.mb-5(data-aos="fade-down")
-      .col-md.tarjeta.color-cn-a.p-5
+      .col-lg.tarjeta.color-cn-a.p-5
         .row.justify-content-center.mb-4
           .col-6
             figure
               img(src='@/assets/curso/temas/tema4/img_5.svg', alt='')
         h4.text-center Nasal
         p Este modo de respiración indica que el aire ingresa por la nariz, en esta zona el aire es limpiado, calentado y humedecido. Este sería el modo respiratorio favorable para la técnica vocal.
-      .col-md.tarjeta.color-cn-b.p-5
+      .col-lg.tarjeta.color-cn-b.p-5
         .row.justify-content-center.mb-4
           .col-6
             figure
               img(src='@/assets/curso/temas/tema4/img_6.svg', alt='')
         h4.text-center Bucal
         p En este modo, por el contrario, el aire ingresa por la boca, pero entra sucio, frío y seco, favoreciendo el ingreso de virus y bacterias.
-      .col-md.tarjeta.color-cn-c.p-5
+      .col-lg.tarjeta.color-cn-c.p-5
         .row.justify-content-center.mb-4
           .col-6
             figure

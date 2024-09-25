@@ -13,23 +13,23 @@
       .col-12.mb-4.mb-lg-0
         AcordionA(clase-tarjeta="tarjeta tarjeta--gris")
           .row(titulo="Ejercicios de proceso")
-            .col-md-6.col-12.mb-4.mb-md-0
+            .col-lg-6.col-12.order-lg-1.order-2
               p Procurar que el sonido producido por el paso del aire por las cuerdas vocales, haciéndolas vibrar, choque y resuene en el paladar y salga fuerte, claro y sonoro. Practicar cantando alguna frase musical. 
               p Levantar la cabeza para que el sonido pueda salir entero. Imaginarse que se está enviando la voz a cierta distancia (por ejemplo, a 5 metros) y que debe llegar a allá con fuerza y claridad. Luego, imaginarse que la voz debe llegar a 10. Es recomendable variar el volumen; es decir, hablar bajito (piano) como si se hablara al oído de una persona. Seguir sacando el aire correctamente, continuar con la respiración diafragmática y solamente reducir la intensidad de su expulsión de aire. Solo debe variar el volumen; pero, hablando fuerte o piano se debe escuchar igual.
-            .col-md-6.col-6
+            .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema6/img_1.png', alt='')
           .row(titulo="Ejercicio con vela")
-            .col-md-6.col-12.mb-4.mb-md-0
+            .col-lg-6.col-12.order-lg-1.order-2
               p Ejercicio para controlar la salida de su aire: tome una vela encendida y acercar los labios a unos cuatro o tres centímetros de la llama y pronunciar prolongadamente la letra u. El sonido (aire) debe salir muy despacio. La práctica está en no apagar la llama. Desde luego, esto se conseguirá si domina, regula o administra el aire, porque si se expele muy fuerte, se apagará. Hacer este ejercicio cuantas veces sea necesario hasta que diciendo: uuu... muy cerca de la llama, no se apague.
-            .col-md-6.col-6
+            .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema6/img_2.png', alt='')
           .row(titulo="Ejercicios con frases")
-            .col-md-6.col-12.mb-4.mb-md-0
+            .col-lg-6.col-12.order-lg-1.order-2
               p Controlando el aire. Insistir en los ejercicios y alternar pronunciando frases o cantando un poco, una vez suave y otra vez fuerte. Para una autoevaluación diaria, probar con este ejercicio: respirar y decir: "En el bosque de pinocho todos cuenta hasta ocho, pin uno, pin dos, pin tres. (Así, continuar hasta que alcance la respiración). 
               p Cada día se debe alcanzar una cantidad mayor, será la prueba de que se está respirando mejor. Después repetir el alfabeto. Precisar cómo la acústica puede embrollar los sonidos, requiriendo la articulación exacta.
-            .col-md-6.col-6
+            .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema6/img_3.png', alt='')
 
@@ -163,7 +163,7 @@
             p.mb-0 Los ruidos que se producen por el paso de la columna de aire aspirado, por las estrecheces de los órganos del cono adicional, se llaman consonantes y se dividen según su modo de articulación y según la participación de la laringe en:
        
     .row.fondo-1.p-4.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
-      .col-10.col-md-6.col-lg-3.col.px-4
+      .col-10.col-md-6.col-lg-3.col.px-4.mb-lg-0.mb-4
         figure
           img(src='@/assets/curso/temas/tema6/img_8.png', alt='')  
       .col-12.col-lg-7.px-4.mb-4

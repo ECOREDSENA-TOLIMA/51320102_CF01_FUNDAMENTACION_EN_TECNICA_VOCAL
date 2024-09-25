@@ -61,7 +61,7 @@
     p.mb-5(data-aos="fade-right") Para representar dichas cualidades, se relaciona la siguiente imagen:
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
-      .col-md-11.col-lg-8.col-12
+      .col-lg-8.col-12
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 5. </b> <i>Cualidades de la voz</i>
         figure
@@ -75,21 +75,21 @@
     p.mb-5(data-aos="fade-right") Cada órgano encargado de emitir diferentes sonidos, cuenta con los siguientes aspectos destacados:
       
     .tarjeta--container.row.mb-5(data-aos="fade-down")
-      .col-md.tarjeta.color-cn-a.p-5
+      .col-lg.tarjeta.color-cn-a.p-5
         .row.justify-content-center.mb-4
           .col-6
             figure
               img(src='@/assets/curso/temas/tema5/img_1.svg', alt='')
-        h4.text-center Órganos de Respiración
+        h4.text-center Órganos de respiración
         p Suministran la energía al producirse la expiración, causado por la presión que ejerce sobre los pulmones el diafragma. La corriente de aire pasa a la laringe.
-      .col-md.tarjeta.color-cn-b.p-5
+      .col-lg.tarjeta.color-cn-b.p-5
         .row.justify-content-center.mb-4
           .col-6
             figure
               img(src='@/assets/curso/temas/tema5/img_2.svg', alt='')
         h4.text-center Órganos de fonación
         p En la laringe se encuentran las cuerdas vocales y dos músculos en forma de labios, formados por la capa muscular que reviste el interior de los cartílagos de la laringe. La corriente de aire separa las cuerdas vocales, mientras que la elasticidad de los músculos las fuerza a unirse, generando la oscilación en la corriente de aire, con un alto contenido armónico. 
-      .col-md.tarjeta.color-cn-c.p-5
+      .col-lg.tarjeta.color-cn-c.p-5
         .row.justify-content-center.mb-4
           .col-6
             figure
@@ -134,78 +134,78 @@
           li.mb-0.px-3.py-1
             i.fas.fa-play
             h3.mb-0 Técnicas de relajación
-            
+
     .row.mb-5.p-5.fondo-s2.justify-content-center.align-items-center(data-aos="fade-down")
       .col-12
         PasosB.tarjeta.color-white.p-4
           .row.p-lg-4(titulo="")
-            .col-md-6.mb-4.mb-md-0
+            .col-lg-6.order-lg-1.order-2
               h4 Respiración
               p Hacer una respiración profunda. Inhalar - Sostener unos pocos segundos - Exhalar. Repetir unas 4 veces, máximo al comienzo…luego se puede incrementar hasta 10 veces, con el fin de intentar reducir esa tensión de los primeros minutos.
-            .col-md-6
+            .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema5/img_5.png', alt='')
           .row.p-lg-4(titulo="")
-            .col-md-6.mb-4.mb-md-0
+            .col-lg-6.order-lg-1.order-2
               h4 Rotación de cabeza
               p Hacer una rotación lenta de la cabeza sobre los hombros. Hacia la derecha 4 veces y hacia la izquierda 4 veces. Mantener una respiración rítmica y lenta mientras se realizan estas rutinas.
-            .col-md-6
+            .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema5/img_6.png', alt='')
           .row.p-lg-4(titulo="")
-            .col-md-6.mb-4.mb-md-0
+            .col-lg-6.order-lg-1.order-2
               h4 Estiramiento del cuello
               p Estirar ahora el cuello. La espalda debe estar recta. Hacia la derecha y hacia la izquierda (posando las orejas sobre cada hombro, sin levantarlos). Repetirlo 2 veces. Hacia adelante (intentar tocar el pecho con el mentón, llevando ligeramente los hombros hacia atrás). Repetirlo 2 veces. Hacia atrás inclinando la cabeza como intentando ver el cielo (no inclinar el cuerpo hacia atrás, solo la cabeza). Repetirlo 2 veces.
-            .col-md-6
+            .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema5/img_7.png', alt='')
           .row.p-lg-4(titulo="")
-            .col-md-6.mb-4.mb-md-0
+            .col-lg-6.order-lg-1.order-2
               h4 Rotación de los hombros
               p Hacia adelante 4 veces. Hacia atrás 4 veces. Hacia adelante 4 veces. Hacia atrás 4 veces.
-            .col-md-6
+            .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema5/img_8.png', alt='')
           .row.p-lg-4(titulo="")
-            .col-md-6.mb-4.mb-md-0
+            .col-lg-6.order-lg-1.order-2
               h4 Respiración profunda
               p Inhalar 2, 3, 4 al tiempo que se levantan los brazos sobre la cabeza. Exhalar 2, 3, 4... mientras se bajan los brazos a los costados del cuerpo. (Repetir 2 veces).
-            .col-md-6
+            .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema5/img_9.png', alt='')
           .row.p-lg-4(titulo="")
-            .col-md-6.mb-4.mb-md-0
+            .col-lg-6.order-lg-1.order-2
               h4 Estiramiento 1
               p Estirarse hacia la derecha pasando el brazo izquierdo sobre la cabeza. (4 veces). Estirarse hacia la izquierda pasando tu brazo derecho por la cabeza. (4 veces).
-            .col-md-6
+            .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema5/img_10.png', alt='')
           .row.p-lg-4(titulo="")
-            .col-md-6.mb-4.mb-md-0
+            .col-lg-6.order-lg-1.order-2
               h4 Estiramiento 2
               p Inclinarse hacia adelante e intentar tocar el suelo. Inhalar... Exhalar...Inhalar... Exhalar.
-            .col-md-6
+            .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema5/img_11.png', alt='')
           .row.p-lg-4(titulo="")
-            .col-md-6.mb-4.mb-md-0
+            .col-lg-6.order-lg-1.order-2
               h4 Hombros, contracción-relajación
               p Levantar los hombros, contraer los músculos y luego relajarlos. (4 veces).
-            .col-md-6
+            .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema5/img_12.png', alt='')
           .row.p-lg-4(titulo="")
-            .col-md-6.mb-4.mb-md-0
+            .col-lg-6.order-lg-1.order-2
               h4 Estiramiento facial
               p Estirar los músculos y ligamentos de la cara. Para hacer esto se debe comenzar con una posición relajada de la cara y luego levantar las cejas y bajar el maxilar inferior al máximo. Mantener esa postura 2 o 3 segundos. (Repetir 3 veces).
-            .col-md-6
+            .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema5/img_13.png', alt='')
           .row.p-lg-4(titulo="")
-            .col-md-6.mb-4.mb-md-0
+            .col-lg-6.order-lg-1.order-2
               h4 Masajear las mejillas y mandíbulas
               p Inhalar... Exhalar... Inhalar... Exhalar...
-            .col-md-6
+            .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema5/img_14.png', alt='')
               

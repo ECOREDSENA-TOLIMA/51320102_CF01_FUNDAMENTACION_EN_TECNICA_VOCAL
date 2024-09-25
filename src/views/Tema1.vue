@@ -10,7 +10,7 @@
     p.mb-4(data-aos="fade-right") Antes de iniciar el desarrollo sobre los diferentes actores presentes de las normas de higiene, es necesario dar una breve definición de lo que representa cada uno:
       
     .row.justify-content-center.align-items-center.mb-4
-      .col-12.col-md-10.d-none.d-sm-none.d-md-block(data-aos="zoom-in-down")
+      .col-12.col-lg-10.d-none.d-sm-none.d-md-block(data-aos="zoom-in-down")
         ImagenInfografica.color-acento-botones.mb-4
           template(v-slot:imagen)
             figure
@@ -37,7 +37,7 @@
     p.mb-5(data-aos="fade-right") Sobre este tipo de normas, se debe considerar lo siguiente:
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
-      .col-md-11.col-lg-10.col-12
+      .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 1. </b> <i>Normas de higiene bucal</i>
         figure
@@ -54,7 +54,7 @@
     p.mb-5(data-aos="fade-right") Ya conociendo lo relacionado con las anteriores normas, es preciso conocer lo que concierne más al aparato vocal o sistema respiratorio:
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
-      .col-md-11.col-lg-10.col-12
+      .col-lg-10.col-12
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 2. </b> <i>Normas de higiene vocal</i>
         figure
@@ -78,7 +78,7 @@
             h4.mb-0 Higiene ergonómica en el trabajo
       .col-12.px-4
         p.mb-4(data-aos="fade-right") Es indispensable tener en cuenta unos principios básicos de diseño ergonómico del puesto de trabajo, tales como:
-      .col-12.col-lg-6.px-4
+      .col-12.col-lg-6.px-4.mb-lg-0.mb-4
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 3. </b> <i>Pausas laborales</i>
         figure
@@ -129,7 +129,7 @@
           li 
             i.fas.fa-check
             p.mb-0 Postura sentada: debe sentarse en una silla lo más relajado posible con los pies apoyados en el suelo, sin cruzar las piernas; la espalda debe estar derecha buscando un apoyo. El mentón debe estar en equilibrio con el cuello, ni muy adelante ni muy atrás. 
-      .col-10.col-lg-5
+      .col-10.col-lg-5.mb-lg-0.mb-4
           .titulo-sexto.color-acento-contenido
             p.titulo.pb-0.mb-0 <b>Figura 4. </b> <i>Postura sentada</i>
           figure
