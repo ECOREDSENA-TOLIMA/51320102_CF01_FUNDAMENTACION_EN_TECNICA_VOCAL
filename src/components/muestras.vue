@@ -929,7 +929,7 @@ div.mb-5
   SlyderD.mb-5(:datos="datosSlyder")
 
   h3 Slider E
-  // SlyderE, para controlar la posicion de los botones de "atras y "adelante" 
+  // SlyderE, para controlar la posicion de los botones de "atras y "delante" 
   //- se usa el prop 'indicadores' con los valores => 'centro' y 'derecha' 
   // para el valor 'izquierda' se deja sin el prop 'indicadores'
   SlyderE(indicadores="derecha")

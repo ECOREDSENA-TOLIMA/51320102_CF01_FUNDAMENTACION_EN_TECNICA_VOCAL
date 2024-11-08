@@ -114,7 +114,7 @@
             i.fas.fa-play
             h4.mb-0 Higiene ergonómica en el canto 
       .col-12.mb-4
-        p.mb-4(data-aos="fade-right") El Ministerio de Salud colombiano, en el IV Estudio Nacional de Salud Bucal, expone los aspectos a tener cuenta para el adecuado manejo del cuerpo en el trabajo musical, respecto al uso de la voz. Es indispensable reconocer que la mayoría de personas que trabajan con la música, especialmente con el canto y su técnica, necesitan una serie de recomendaciones para poder ejercer una posición ergonómica adecuada, por lo tanto, es necesario que:
+        p.mb-4(data-aos="fade-right") El Ministerio de Salud colombiano, en el IV Estudio Nacional de Salud Bucal, expone los aspectos a tener en cuenta para el adecuado manejo del cuerpo en el trabajo musical, respecto al uso de la voz. Es indispensable reconocer que la mayoría de personas que trabajan con la música, especialmente con el canto y su técnica, necesitan una serie de recomendaciones para poder ejercer una posición ergonómica adecuada, por lo tanto, es necesario que:
       .col-12.col-lg-5.mb-4
         ul.lista-ul.ul-color-a
           li 
@@ -128,7 +128,7 @@
             p.mb-0 Es aconsejable realizar ejercicios de calentamiento corporal y relajación con ayuda de la respiración. 
           li 
             i.fas.fa-check
-            p.mb-0 Postura sentada: debe sentarse en una silla lo más relajado posible con los pies apoyados en el suelo, sin cruzar las piernas; la espalda debe estar derecha buscando un apoyo. El mentón debe estar en equilibrio con el cuello, ni muy adelante ni muy atrás. 
+            p.mb-0 Postura sentada: debe sentarse en una silla lo más relajado posible con los pies apoyados en el suelo, sin cruzar las piernas; la espalda debe estar derecha buscando un apoyo. El mentón debe estar en equilibrio con el cuello, ni muy delante ni muy atrás. 
       .col-10.col-lg-5.mb-lg-0.mb-4
           .titulo-sexto.color-acento-contenido
             p.titulo.pb-0.mb-0 <b>Figura 4. </b> <i>Postura sentada</i>
@@ -165,7 +165,7 @@
                 img(src="@/assets/curso/temas/tema1/ico-1B.svg", alt="alt").img100
             .col
               h4 Torso
-              p La espalda debe relajada y recta, buscando un equilibrio del cuerpo, no muy atrás ni muy adelante.
+              p La espalda debe relajada y recta, buscando un equilibrio del cuerpo, no muy atrás ni muy delante.
         .crd.crd--avatarHorizontal.crd--last.py-4
           .row.align-items-center
             .col-auto
@@ -173,7 +173,7 @@
                 img(src="@/assets/curso/temas/tema1/ico-1C.svg", alt="alt").img100
             .col
               h4 Cabeza
-              p El mentón debe estar en equilibrio con el cuello ni muy adelante ni muy atrás. Asimismo, el cuello debe estar relajado y la mirada al frente.
+              p El mentón debe estar en equilibrio con el cuello, ni muy delante ni muy atrás. Asimismo, el cuello debe estar relajado y la mirada al frente.
 
 
 </template>

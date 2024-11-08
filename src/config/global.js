@@ -193,7 +193,7 @@ export default {
     {
       termino: 'Edema de Reinke o laringitis crónica',
       significado:
-        'se trata de una transformación edematosa del corion o espacio de Reinke, localizado entre el epitelio y el ligamento vocal, que deforma la cara superior y el borde libre del repliegue vocal. Los agentes etiológicos más frecuentes son el abuso vocal y, en gran medida, el tabaquismo. Se han descrito otros agentes que pueden facilitar dicha bilateralidad como el etilismo, el reflujo gastro-esofágico y el hipotiroidismo, en el contexto de una infiltración mixedematosa.',
+        'se trata de una transformación edematosa del corion o espacio de Reinke, localizado entre el epitelio y el ligamento vocal, que deforma la cara superior y el borde libre del repliegue vocal. Los agentes etiológicos más frecuentes son el abuso vocal y, en gran medida, el tabaquismo. Se han descrito otros agentes que pueden facilitar dicha bilateralidad como el etilismo, el reflujo gastroesofágico y el hipotiroidismo, en el contexto de una infiltración mixedematosa.',
     },
     {
       termino: 'Enfermedad periodontal',

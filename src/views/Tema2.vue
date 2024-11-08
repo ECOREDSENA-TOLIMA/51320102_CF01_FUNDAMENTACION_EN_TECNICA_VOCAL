@@ -43,13 +43,13 @@ export default {
       {
         titulo: 'Tener alimentación balanceada',
         texto:
-          'La alimentación debe ser balanceada, se debe preferir comer alimentos alcalinos como las verduras y las frutas que los alimentos ácidos como la carne, harinas refinadas, leche. No comer comidas fuertes como picantes, exceso de sal, los cuales irritan la mucosa laríngea.',
+          'La alimentación debe ser balanceada, se debe preferir comer alimentos alcalinos como las verduras y las frutas que los alimentos ácidos como la carne, harinas refinadas y leche. No comer comidas fuertes como picantes y exceso de sal, los cuales irritan la mucosa laríngea.',
         imagen: require('@/assets/curso/temas/tema2/img_4.png'),
       },
       {
         titulo: 'Llevar una vida sana',
         texto:
-          'Tener una vida sana, practicar algún deporte preferiblemente ejercicios aeróbicos, yoga, natación entre otros. Una buena voz necesita un cuerpo sano.',
+          'Tener una vida sana, practicar algún deporte, preferiblemente ejercicios aeróbicos, yoga, natación, entre otros. Una buena voz necesita un cuerpo sano.',
         imagen: require('@/assets/curso/temas/tema2/img_5.png'),
       },
       {
@@ -79,7 +79,7 @@ export default {
       {
         titulo: 'Tener autocontrol emocional',
         texto:
-          'Un buen autocontrol de las emociones y los sentimientos, es bueno para la vida en general, también lo es para evitar situaciones de descontrol fonatorio. El Reposo, dormir bien, masajes, relajación, hidroterapia, son situaciones que favorecen la relajación y la eliminación de tensiones físicas y psíquicas.',
+          'Un buen autocontrol de las emociones y los sentimientos, es bueno para la vida en general, también lo es para evitar situaciones de descontrol fonatorio. El reposo, dormir bien, masajes, relajación, hidroterapia, son situaciones que favorecen la relajación y la eliminación de tensiones físicas y psíquicas.',
         imagen: require('@/assets/curso/temas/tema2/img_10.png'),
       },
     ],

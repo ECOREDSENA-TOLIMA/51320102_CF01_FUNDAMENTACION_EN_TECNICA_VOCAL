@@ -27,7 +27,7 @@
                 img(src='@/assets/curso/temas/tema6/img_2.png', alt='')
           .row(titulo="Ejercicios con frases")
             .col-lg-6.col-12.order-lg-1.order-2
-              p Controlando el aire. Insistir en los ejercicios y alternar pronunciando frases o cantando un poco, una vez suave y otra vez fuerte. Para una autoevaluación diaria, probar con este ejercicio: respirar y decir: "En el bosque de pinocho todos cuenta hasta ocho, pin uno, pin dos, pin tres. (Así, continuar hasta que alcance la respiración). 
+              p Controlando el aire. Insistir en los ejercicios y alternar pronunciando frases o cantando un poco, una vez suave y otra vez fuerte. Para una autoevaluación diaria, probar con este ejercicio: respirar y decir: en el bosque de pinocho todos cuenta hasta ocho, pin uno, pin dos, pin tres. (Así, continuar hasta que alcance la respiración). 
               p Cada día se debe alcanzar una cantidad mayor, será la prueba de que se está respirando mejor. Después repetir el alfabeto. Precisar cómo la acústica puede embrollar los sonidos, requiriendo la articulación exacta.
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
@@ -54,7 +54,7 @@
               img(src="@/assets/curso/temas/tema6/img_4.png", alt="alt")
           .crd_hover_txt--body
             h5.mb-3 La dicción
-            p.mb-0 Es la manera más o menos estética de pronunciar las palabras. Esta equilibra las silabas de las palabras, acentuando las que tienen importancia y evitando que sobresalgan las demás, constituyendo uno de los elementos de la buena interpretación.
+            p.mb-0 Es la manera más o menos estética de pronunciar las palabras. Esta equilibra las sílabas de las palabras, acentuando las que tienen importancia y evitando que sobresalgan las demás, constituyendo uno de los elementos de la buena interpretación.
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
@@ -95,7 +95,7 @@
             p.mb-0 Los ejercicios de articulación comprenden una serie de palabras y de frases para que sirva de entrenamiento al alumno, desarrollando la musculatura del paladar, de la lengua y de los labios, dando soltura a los músculos, comodidad y facilidad, llegando así a ser más precisa, firme y clara. La vocalización consiste en la correcta y clara dicción de cada fonema vocálico, con su sonido propio y distinto. Todo esto se conseguirá mediante una buena movilidad de mandíbula, labios y lengua, a través de ejercicios de mandíbula, labios, lengua, de frases sin consonante, con consonantes, consonantes dobles, etc.
           li 
             i.fas.fa-check
-            p.mb-0 Es en las vocales donde la voz se apoya y proyecta y de su buena emisión depende que la voz sea homogénea, clara y compacta. La formación de las vocales es debida a la capacidad de resonancia de la boca y se obtiene por el avance a retroceso de la lengua, que es el principal órgano en la formación de las vocales.
+            p.mb-0 Es en las vocales donde la voz se apoya y proyecta, y de su buena emisión depende que la voz sea homogénea, clara y compacta. La formación de las vocales es debida a la capacidad de resonancia de la boca y se obtiene por el avance a retroceso de la lengua, que es el principal órgano en la formación de las vocales.
           li 
             i.fas.fa-check
             p.mb-0 Los labios también toman una forma especial para cada consonante. Las consonantes desde el punto de vista fisiológico, se obtienen por movimientos de los órganos de las cavidades de resonancia, combinados con otras posiciones de dichas cavidades, que interrumpen la libre emisión de la voz con las vocales, sea total o parcialmente, suave o bruscamente y que producen un ruido característico en cada posición articulatoria.
@@ -134,7 +134,7 @@
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema6/ico-1U.svg' alt='AvatarTop')
-        p.text-start Máxima elevación del dorso de la lengua hacia atrás, labios hacia adelante, redondeados y recogidos, abertura de las mandíbulas de 14 a 16 mm.
+        p.text-start Máxima elevación del dorso de la lengua hacia atrás, labios hacia delante, redondeados y recogidos, abertura de las mandíbulas de 14 a 16 mm.
 
     Separador
     #t_6_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -170,25 +170,25 @@
         ul.lista-ul.mb-0
           li.mb-0
             i.fas.fa-angle-right
-            p.mb-1 Fonemas sordos explosivos………K,T,P
+            p.mb-1 Fonemas sordos explosivos………K,T,P.
           li.mb-0
             i.fas.fa-angle-right
-            p.mb-1 Fonemas sordos fricativos……….F,S,X
+            p.mb-1 Fonemas sordos fricativos……….F,S,X.
           li.mb-0
             i.fas.fa-angle-right
-            p.mb-1 Fonemas sonoros explosivos…..B,D,G 
+            p.mb-1 Fonemas sonoros explosivos…..B,D,G. 
           li.mb-0
             i.fas.fa-angle-right
-            p.mb-1 Fonemas sonoros fricativos………J,V,Z
+            p.mb-1 Fonemas sonoros fricativos………J,V,Z.
           li.mb-0
             i.fas.fa-angle-right
-            p.mb-1 Fonemas sonoros nasales………..M,N,N  
+            p.mb-1 Fonemas sonoros nasales………..M,N,N.  
           li.mb-0
             i.fas.fa-angle-right
-            p.mb-1 Fonemas sonoros laterales……….L,LL  
+            p.mb-1 Fonemas sonoros laterales……….L,LL.  
           li.mb-0
             i.fas.fa-angle-right
-            p.mb-1 Fonemas sonoros vibrantes……..R,RR
+            p.mb-1 Fonemas sonoros vibrantes……..R,RR.
           li.mb-0
             i.fas.fa-angle-right
             p.mb-1 Las consonantes P, B, M juntan los labios y cierran momentáneamente por completo.
@@ -197,7 +197,7 @@
             p.mb-1 La F y la V juntan labios y dientes.
           li.mb-0
             i.fas.fa-angle-right
-            p.mb-1 D, L, LL, N, R, S, Y, aproximan la lengua al paladar y alveolos en diferentes formas
+            p.mb-1 D, L, LL, N, R, S, Y, aproximan la lengua al paladar y alveolos en diferentes formas.
           li.mb-0
             i.fas.fa-angle-right
             p.mb-1 La Z coloca la punta de la lengua entre los dientes.

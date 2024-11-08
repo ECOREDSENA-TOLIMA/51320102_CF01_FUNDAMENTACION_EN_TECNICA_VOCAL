@@ -65,8 +65,8 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 5. </b> <i>Cualidades de la voz</i>
         figure
-          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema5/fig-5a.svg', alt='Figura que relaciona las normas a tener en cuenta con respecto a la higiene bucal, destacando entre ellas, la forma de cepillarse los dientes, el uso de utensilios en la boca, el tipo de alimentación a consumir y el tiempo de consulta al dentista por año, entre otros aspectos.')  
-          img.d-block.d-md-none(src='@/assets/curso/temas/tema5/fig-5b.svg', alt='Figura que relaciona las normas a tener en cuenta con respecto a la higiene bucal, destacando entre ellas, la forma de cepillarse los dientes, el uso de utensilios en la boca, el tipo de alimentación a consumir y el tiempo de consulta al dentista por año, entre otros aspectos.') 
+          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema5/fig-5a.svg', alt='Figura que relaciona las cualidades que tiene la voz, las cuales se destacan por tres aspectos: Timbre: resonancia de senos laringe y faringe. Tono: resistente a los pliegues vocales. Intensidad: cantidad de aire.')  
+          img.d-block.d-md-none(src='@/assets/curso/temas/tema5/fig-5b.svg', alt='Figura que relaciona las cualidades que tiene la voz, las cuales se destacan por tres aspectos: Timbre: resonancia de senos laringe y faringe. Tono: resistente a los pliegues vocales. Intensidad: cantidad de aire.') 
 
     Separador
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -126,7 +126,7 @@
     #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 5.2 Rutinas de calentamiento y preparación de la voz
 
-    p.mb-5(data-aos="fade-right") Es necesario utilizar unas rutinas de calentamiento de la voz antes de cantar. Teniendo cuenta temas como la respiración, se proponen algunas rutinas de calentamiento y preparación de la voz:
+    p.mb-5(data-aos="fade-right") Es necesario utilizar unas rutinas de calentamiento de la voz antes de cantar. Teniendo en cuenta temas como la respiración, se proponen algunas rutinas de calentamiento y preparación de la voz:
     
     .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
       .col-12
@@ -141,7 +141,7 @@
           .row.p-lg-4(titulo="")
             .col-lg-6.order-lg-1.order-2
               h4 Respiración
-              p Hacer una respiración profunda. Inhalar - Sostener unos pocos segundos - Exhalar. Repetir unas 4 veces, máximo al comienzo…luego se puede incrementar hasta 10 veces, con el fin de intentar reducir esa tensión de los primeros minutos.
+              p Hacer una respiración profunda. Inhalar, sostener unos pocos segundos, exhalar. Repetir unas 4 veces, máximo al comienzo…luego se puede incrementar hasta 10 veces, con el fin de intentar reducir esa tensión de los primeros minutos.
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema5/img_5.png', alt='')
@@ -155,14 +155,14 @@
           .row.p-lg-4(titulo="")
             .col-lg-6.order-lg-1.order-2
               h4 Estiramiento del cuello
-              p Estirar ahora el cuello. La espalda debe estar recta. Hacia la derecha y hacia la izquierda (posando las orejas sobre cada hombro, sin levantarlos). Repetirlo 2 veces. Hacia adelante (intentar tocar el pecho con el mentón, llevando ligeramente los hombros hacia atrás). Repetirlo 2 veces. Hacia atrás inclinando la cabeza como intentando ver el cielo (no inclinar el cuerpo hacia atrás, solo la cabeza). Repetirlo 2 veces.
+              p Estirar ahora el cuello. La espalda debe estar recta. Hacia la derecha y hacia la izquierda (posando las orejas sobre cada hombro, sin levantarlos). Repetirlo 2 veces. Hacia delante (intentar tocar el pecho con el mentón, llevando ligeramente los hombros hacia atrás). Repetirlo 2 veces. Hacia atrás, inclinando la cabeza como intentando ver el cielo (no inclinar el cuerpo hacia atrás, solo la cabeza). Repetirlo 2 veces.
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema5/img_7.png', alt='')
           .row.p-lg-4(titulo="")
             .col-lg-6.order-lg-1.order-2
               h4 Rotación de los hombros
-              p Hacia adelante 4 veces. Hacia atrás 4 veces. Hacia adelante 4 veces. Hacia atrás 4 veces.
+              p Hacia delante 4 veces. Hacia atrás 4 veces. Hacia delante 4 veces. Hacia atrás 4 veces.
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema5/img_8.png', alt='')
@@ -183,7 +183,7 @@
           .row.p-lg-4(titulo="")
             .col-lg-6.order-lg-1.order-2
               h4 Estiramiento 2
-              p Inclinarse hacia adelante e intentar tocar el suelo. Inhalar... Exhalar...Inhalar... Exhalar.
+              p Inclinarse hacia delante e intentar tocar el suelo. Inhalar... Exhalar...Inhalar... Exhalar.
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema5/img_11.png', alt='')

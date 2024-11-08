@@ -20,7 +20,7 @@
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 4.1 Respiración
 
-    p.mb-5(data-aos="fade-right") La respiración es un elemento de gran importancia en la emisión de la voz. De ella dependen, en gran parte, la calidad de la voz y la salud vocal, ya sea que se esté cantando, hablando en público o participando en actividades que requieren el uso intensivo de la voz. 
+    p.mb-5(data-aos="fade-right") La respiración es un elemento de gran importancia en la emisión de la voz. De ella depende, en gran parte, la calidad de la voz y la salud vocal, ya sea que se esté cantando, hablando en público o participando en actividades que requieren el uso intensivo de la voz. 
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
       .col-12
@@ -60,9 +60,9 @@
       .col-lg-6.col-12(data-aos="fade-right")
         LineaTiempoD.color-acento-botones
           p(numero="1" titulo="El diafragma") Es un músculo que separa la cavidad torácica de la cavidad abdominal y que en reposo tiene forma abovedada. Cuando se inspira, el diafragma se contrae y pasa a tener una forma más plana. Esto permite que la cavidad torácica aumente de volumen y entre el aire en los pulmones. Cuando el diafragma se relaja, presiona los pulmones y el aire es expulsado al exterior. 
-          p(numero="2" titulo="La respiración") La decuada para el canto es la costal diafragmática. Fue atribuida a los cantantes italianos del siglo XIX y se denominó “Técnica de <em>Appoggio</em>” o “apoyo”.
+          p(numero="2" titulo="La respiración") La adecuada para el canto es la costal diafragmática. Fue atribuida a los cantantes italianos del siglo XIX y se denominó “Técnica de <em>Appoggio</em>” o “apoyo”.
           p(numero="3" titulo="Inspiración") Es profunda, nasal, hay un leve ascenso de la pared torácica por obra de la acción de los músculos intercostales externos, elevadores de las costillas, en ese momento el sujeto cierra su glotis, coloca su laringe en posición fonatoria y emite el sonido sin modificar la posición inspiratoria durante toda la emisión.
-          p(numero="4" titulo="Proceso") Se realiza por obra de la presión subglotica, por la elevación lenta y progresiva del diafragma bajo la presión intensa y continua de la musculatura abdominal, que se produce desde el pubis hacia arriba. Así el gasto de aire no agota la reserva y provoca una sensación como de cantar sobre un colchón de aire.
+          p(numero="4" titulo="Proceso") Se realiza por obra de la presión subglotica, por la elevación lenta y progresiva del diafragma, bajo la presión intensa y continua de la musculatura abdominal, que se produce desde el pubis hacia arriba. Así, el gasto de aire no agota la reserva y provoca una sensación como de cantar sobre un colchón de aire.
           p(numero="5" titulo="El <em>Appoggio</em> de la voz") Se consigue cuando la columna de aire al salir de los pulmones halla resistencia, se agarra de los resonadores y varía según la vocal. 
           p(numero="6" titulo="La técnica del <em>Appoggio</em>") Conduce a técnicas de fuerte resistencia proyectada sobre la laringe, que protegen el mecanismo laríngeo, sobre todo en altas frecuencias y a gran volumen.
 
@@ -70,7 +70,7 @@
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 4.2 Mecanismos de respiración fonatoria
 
-    p.mb-5(data-aos="fade-right") Primero que todo, es importante conocer las siguientes apreciaciones que diferencian estos importantes conceptos:
+    p.mb-5(data-aos="fade-right") Primero que todo, es importante conocer las siguientes apreciaciones que diferencian estos conceptos:
 
     .tarjeta--container.row.mb-5(data-aos="fade-down")
       .col-md.tarjeta.color-primario-a.p-5
