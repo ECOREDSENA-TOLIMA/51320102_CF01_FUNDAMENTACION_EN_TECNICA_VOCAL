@@ -170,25 +170,25 @@
         ul.lista-ul.mb-0
           li.mb-0
             i.fas.fa-angle-right
-            p.mb-1 Fonemas sordos explosivos………K,T,P.
+            p.mb-1 Fonemas sordos explosivos………K, T, P.
           li.mb-0
             i.fas.fa-angle-right
-            p.mb-1 Fonemas sordos fricativos……….F,S,X.
+            p.mb-1 Fonemas sordos fricativos……….F, S, X.
           li.mb-0
             i.fas.fa-angle-right
-            p.mb-1 Fonemas sonoros explosivos…..B,D,G. 
+            p.mb-1 Fonemas sonoros explosivos…..B, D, G. 
           li.mb-0
             i.fas.fa-angle-right
-            p.mb-1 Fonemas sonoros fricativos………J,V,Z.
+            p.mb-1 Fonemas sonoros fricativos………J, V, Z.
           li.mb-0
             i.fas.fa-angle-right
-            p.mb-1 Fonemas sonoros nasales………..M,N,N.  
+            p.mb-1 Fonemas sonoros nasales………..M, N, N.  
           li.mb-0
             i.fas.fa-angle-right
-            p.mb-1 Fonemas sonoros laterales……….L,LL.  
+            p.mb-1 Fonemas sonoros laterales……….L, LL.  
           li.mb-0
             i.fas.fa-angle-right
-            p.mb-1 Fonemas sonoros vibrantes……..R,RR.
+            p.mb-1 Fonemas sonoros vibrantes……..R, RR.
           li.mb-0
             i.fas.fa-angle-right
             p.mb-1 Las consonantes P, B, M juntan los labios y cierran momentáneamente por completo.
